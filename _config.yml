@@ -1,13 +1,13 @@
 # Site settings
-title: PS Blog
-SEOTitle: PS Blog
+title: ZZY Blog
+SEOTitle: ZZY Blog
 header-img: img/post-bg-robson-hatsukami-morgan.jpg
 email: simpleinjoy@gmail.com
 description: "Every failure is leading towards success."
 keyword: "ZZY Blog, 赵智勇的博客,ptpan"
-url: "http://komono.github.io"          # your host, for absolute URL
+url: "http://zzyall.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/komono/komono.github.io" # you code repository
+github_repo: "https://github.com/zzyall/zzyall.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-weibo_username:     ptpan
-zhihu_username:     pan_shuai
-github_username:    komono
-#facebook_username:  ptpan
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     
+zhihu_username:     
+github_username:    zzyall
+#facebook_username:  
+#jianshu_username:   
+#twitter_username:   
 
 
 
